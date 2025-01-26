@@ -260,6 +260,7 @@ ATTR_UPDATE_FILE_HASH: Final = "file_hash"
 """Manufacturers"""
 # pylint: disable=too-many-lines,line-too-long
 MANUFACTURERS: Final = {
+    "A4A930": "Beijing Xiaomi Mobile Software Co., Ltd",
     "002272": "American Micro-Fuel Device Corp.",
     "00D0EF": "IGT",
     "086195": "Rockwell Automation",
